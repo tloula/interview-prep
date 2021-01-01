@@ -1,0 +1,16 @@
+[*] Depth First Search - Stack
+[*] Breadth First Search - Queue
+[*] Matching Parenthesis - Stack
+[*] Hash Tables
+[*] Variable/Pointer Manipulation
+[*] Reversing a Linked List
+[*] Sorting Fundamentals O(n log n)
+[] Recursion
+[] Custom Data Structures & OOP
+[*] Binary Search O(log n)
+
+TODO:
+[] Study Binary Search on Rotated Array Again
+[] LRU Cache
+[] Spiral Matrix
+[] Binary Trees
